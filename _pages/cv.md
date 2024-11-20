@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Student in DIKE, UGM, 2024-now
+* M.S. in DTETI, UGM, 2015
+* B.S. in Mathematics, UNS, 2005
 
 Work experience
 ======
