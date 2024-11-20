@@ -25,19 +25,19 @@ author:
   name             : "Winar"
   pronouns         : "he/his"  
   bio              : "Lecturer"
-  location         : "Solo"
+  location         : "Solo, Indonesia"
   employer         : "Universitas Sebelas Maret"
   uri              : "win.staff.uns.ac.id"
   email            : "win[at]staff.uns.ac.id" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+ # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.co.id/citations?user=g8US7JwAAAAJ&hl=en"
-  impactstory      : # URL
+ # impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8988-9528"
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL
+ # semantic         : # URL
+ #pubmed           : # URL
+ #researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57217797329"
 
   # Repositories and software development
